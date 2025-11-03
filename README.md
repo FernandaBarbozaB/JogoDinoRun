@@ -6,7 +6,7 @@ Nesse jogo feito em GdScript, fiz uma nova versão do clássico Dino Run do Goog
 
 Dino Run é um jogo simples e leve, inspirado no dinossauro do Google.
 
-Foi feito com o motor Godot e pensado para rodar bem em qualquer computador e navegador.
+Foi feito com o motor Godot e pensado para rodar bem em qualquer computador.
 
 O objetivo é correr o máximo que puder, desviando dos obstáculos pelo caminho.
 
@@ -21,3 +21,6 @@ Espero que você goste e se divirta.
 Espaço  → pular
 
 Seta para baixo → abaixar
+
+
+Você pode baixar o jogo e jogá-lo aqui: https://fernandab.itch.io/dino-run
