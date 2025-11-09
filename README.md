@@ -1,4 +1,5 @@
-![Dino Run](imagem bg/.png)
+![Dino Run](image.bg.png)
+
 
 
 
